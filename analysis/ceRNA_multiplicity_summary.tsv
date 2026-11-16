@@ -1,0 +1,2 @@
+de_mirnas_bh_fdr_lt_0_05	mirna_welch_tests	mirna_n_NH	mirna_n_TOF	de_mrnas_bh_fdr_lt_0_05	unique_targetscan_pairs_tested	nominal_negative_opposite_edges_p_lt_0_05	bh_significant_negative_opposite_edges	targetscan_default_hsa_sites_for_C1QTNF9	n_matched_samples	correlation_multiple_comparison_correction
+181	626	8	22	2141	1199	229	112	0	30	Benjamini-Hochberg across all unique eligible TargetScan miRNA-gene pairs

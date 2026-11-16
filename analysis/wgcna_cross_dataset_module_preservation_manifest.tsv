@@ -1,0 +1,10 @@
+field	value
+random_seed	20261115
+permutations	200
+common_gene_n	3690
+GSE57338_sample_n	313
+GSE36761_RV_sample_n	26
+GSE57338_module3_common_n	473
+GSE36761_module4_common_n	29
+network_type	unsigned
+WGCNA_version	1.74

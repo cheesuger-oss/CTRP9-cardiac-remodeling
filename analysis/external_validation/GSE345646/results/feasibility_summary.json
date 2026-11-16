@@ -1,0 +1,22 @@
+{
+  "accession": "GSE345646",
+  "download_date": "2026-11-15",
+  "archive_sha256": "02cd1dd99b4ac06132d4378a44d2b43b3d160c70b205b076b83c68d0d7217a61",
+  "included_donors": 11,
+  "group_donor_n": {
+    "NF": 4,
+    "RVF": 3,
+    "pRV": 4
+  },
+  "total_nuclei_author_cellbender_filtered": 89051,
+  "C1QTNF9_total_raw_umi": 452,
+  "C1QTNF9_nonzero_donors": 11,
+  "gates": {
+    "eleven_readable_unique_feature_id_matrices": true,
+    "at_least_three_donors_per_group": true,
+    "C1QTNF9_present_once_per_matrix": true,
+    "C1QTNF9_at_least_20_umi_and_three_nonzero_donors": true,
+    "at_least_500_nuclei_per_donor": true
+  },
+  "overall_verdict": "PASS"
+}

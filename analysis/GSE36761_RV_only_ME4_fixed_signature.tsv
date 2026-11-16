@@ -1,0 +1,2 @@
+signature	genes_available	n_NH_RV	n_TOF_RV	variance_explained_PC1	NH_RV_mean	TOF_RV_mean	mean_diff	CI_low	CI_high	hedges_g	welch_p	multiple_comparison_correction
+original_GSE36761_module4_fixed_genes	79	4	22	0.5455228685900592	-5.6881944594366605	1.0342171744430289	6.722411633879689	3.898792365601657	9.666435662223376	1.0489439012607102	0.00022268387941623476	none; one prespecified fixed-signature sensitivity test

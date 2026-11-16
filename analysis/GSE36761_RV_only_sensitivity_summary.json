@@ -1,0 +1,29 @@
+{
+  "analysis_label": "post-results RV-only sensitivity analysis",
+  "NH_RV_samples": [
+    "NH-02",
+    "NH-04",
+    "NH-06",
+    "NH-08"
+  ],
+  "excluded_NH_LV_samples": [
+    "NH-01",
+    "NH-03",
+    "NH-05",
+    "NH-07"
+  ],
+  "TOF_RV_n": 22,
+  "miRNA_tests": 626,
+  "miRNA_DE_BH_FDR_lt_0.05": 164,
+  "mRNA_DE_BH_FDR_lt_0.05": 869,
+  "candidate_pairs_tested": 275,
+  "candidate_edges_retained": 12,
+  "ME4_fixed_signature_genes": 79,
+  "random_seed": 20260823,
+  "corrections": {
+    "mRNA": "limma BH genome-wide",
+    "miRNA": "BH across 626 miRNAs",
+    "ssGSEA": "BH across 10 cell types",
+    "network": "BH across all eligible unique TargetScan pairs"
+  }
+}

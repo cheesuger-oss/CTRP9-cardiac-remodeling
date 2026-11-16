@@ -1,0 +1,22 @@
+check	dataset	marker	max_abs_difference	status
+Hedges g	GSE210180	C1QTNF9/C1qtnf9	9.0205620750794e-16	PASS
+Hedges g	GSE119754	C1QTNF9/C1qtnf9	1.55431223447522e-15	PASS
+Hedges g	GSE36761	C1QTNF9/C1qtnf9	4.44089209850063e-16	PASS
+Hedges g	GSE57338	C1QTNF9/C1qtnf9	1.11022302462516e-16	PASS
+leave-one-out correlations	GSE210180	Fn1	4.44089209850063e-16	PASS
+leave-one-out correlations	GSE210180	Myh7	1.11022302462516e-16	PASS
+leave-one-out correlations	GSE210180	Nppb	4.44089209850063e-16	PASS
+leave-one-out correlations	GSE210180	Acta1	3.33066907387547e-16	PASS
+leave-one-out correlations	GSE210180	Tgfb1	3.33066907387547e-16	PASS
+leave-one-out correlations	GSE210180	Postn	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE210180	Myh6	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE210180	Col3a1	1.11022302462516e-16	PASS
+leave-one-out correlations	GSE210180	Col1a1	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE210180	Col1a2	1.11022302462516e-16	PASS
+leave-one-out correlations	GSE119754	Fn1	5.55111512312578e-16	PASS
+leave-one-out correlations	GSE119754	Postn	5.55111512312578e-16	PASS
+leave-one-out correlations	GSE119754	Tgfb1	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE119754	Col1a1	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE119754	Nppb	3.33066907387547e-16	PASS
+leave-one-out correlations	GSE119754	Col3a1	2.22044604925031e-16	PASS
+leave-one-out correlations	GSE119754	Acta1	3.33066907387547e-16	PASS

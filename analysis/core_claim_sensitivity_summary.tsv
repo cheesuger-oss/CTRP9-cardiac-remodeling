@@ -1,0 +1,4 @@
+analysis	dataset	tests	fdr_lt_0_05	interpretation_boundary
+group-adjusted rat marker partial correlations	GSE210180	10	0	post hoc; low power; evaluates pooled group separation
+group-adjusted rat marker partial correlations	GSE119754	7	0	post hoc; low power; evaluates pooled group separation
+age/sex-adjusted C1QTNF9 group contrasts	GSE57338	3	2	post hoc; residual confounding remains possible

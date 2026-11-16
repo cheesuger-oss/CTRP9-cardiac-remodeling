@@ -1,0 +1,2 @@
+universe_intersection_n	GSE57338_module3_total_n	GSE36761_module4_total_n	GSE57338_module3_in_universe_n	GSE36761_module4_in_universe_n	shared_n	expected_shared_n	fold_enrichment	fisher_odds_ratio	fisher_greater_p	hypergeom_upper_p	fisher_table_a_shared	fisher_table_b_left_only	fisher_table_c_right_only	fisher_table_d_neither	multiple_comparison_correction
+3690	789	79	473	29	11	3.7173441734417345	2.9591018444266237	4.231481481481482	0.0005386975091301215	0.0005386975091301215	11	462	18	3199	none (single prespecified overlap test)

@@ -1,0 +1,2 @@
+n	module_predictor_genes	pc1_variance_explained	pearson_r	ci_low	ci_high	p_raw	multiple_comparison_correction
+313	788	0.3071075064610117	0.373865446844715	0.27437662471094965	0.46543544067350434	8.062758309673852e-12	none (one pre-specified correlation)

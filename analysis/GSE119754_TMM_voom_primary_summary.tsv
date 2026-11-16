@@ -1,0 +1,2 @@
+dataset	contrast	n_control	n_case	genes_input	genes_retained	min_cpm	min_samples	gene	log2FC	CI_low	CI_high	P_value	BH_FDR	method
+GSE119754	MCT-control	6	5	37383	14903	1	5	C1qtnf9	-1.4249150897806	-2.07727582251144	-0.77255435704975	0.000423524547556225	0.00587836394347047	CPM filter + TMM effective libraries + voom-limma robust empirical Bayes

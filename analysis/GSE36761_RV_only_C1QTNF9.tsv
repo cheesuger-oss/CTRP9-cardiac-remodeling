@@ -1,0 +1,2 @@
+contrast	n_NH_RV	n_TOF_RV	mean_NH_RV	mean_TOF_RV	mean_difference	bootstrap_CI_low	bootstrap_CI_high	hedges_g	welch_p	multiple_comparison_correction
+TOF_RV_vs_NH_RV	4	22	4.238144831526469	4.99742697245945	0.7592821409329806	-0.7416820708697243	1.9216913426587754	0.8050333665676795	0.40461133491860946	none; one prespecified gene-level sensitivity test

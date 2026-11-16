@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+*.h5ad
+*.h5
+*.tar
+*.tmp
+analysis/TargetScanHuman_7.2_default_context_predictions.zip
+

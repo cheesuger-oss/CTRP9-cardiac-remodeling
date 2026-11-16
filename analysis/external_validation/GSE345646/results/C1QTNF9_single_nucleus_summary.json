@@ -1,0 +1,21 @@
+{
+  "retained_nuclei": 86722,
+  "cell_types": 10,
+  "eligible_stage_test_cell_types": 6,
+  "comparison_correction": "BH separately across eligible cell types for Kruskal-Wallis and Spearman families",
+  "virtual_perturbation_gate": "PASS",
+  "virtual_perturbation_candidate_cell_types": [
+    "Cardiomyocyte",
+    "Endothelial",
+    "Macrophage_myeloid"
+  ],
+  "software": {
+    "python": "3.13.2",
+    "scanpy": "1.12.4",
+    "anndata": "0.13.4",
+    "scipy": "1.16.3",
+    "harmonypy": "2.0.2",
+    "umap-learn": "0.5.9.post2",
+    "scrublet": "0.2.3"
+  }
+}

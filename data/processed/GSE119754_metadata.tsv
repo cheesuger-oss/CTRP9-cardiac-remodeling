@@ -1,0 +1,12 @@
+	sample	group	species	model	tissue
+0	CT_RV_1_S1	control	rat	MCT-PAH RV failure	RV
+1	CT_RV_2_S2	control	rat	MCT-PAH RV failure	RV
+2	CT_RV_3_S3	control	rat	MCT-PAH RV failure	RV
+3	CT_RV_4_S4	control	rat	MCT-PAH RV failure	RV
+4	CT_RV_5_S5	control	rat	MCT-PAH RV failure	RV
+5	CT_RV_6_S6	control	rat	MCT-PAH RV failure	RV
+6	MCT_RV_1_S7	MCT	rat	MCT-PAH RV failure	RV
+7	MCT_RV_2_S8	MCT	rat	MCT-PAH RV failure	RV
+8	MCT_RV_3_S9	MCT	rat	MCT-PAH RV failure	RV
+9	MCT_RV_4_S10	MCT	rat	MCT-PAH RV failure	RV
+10	MCT_RV_6_S12	MCT	rat	MCT-PAH RV failure	RV

@@ -1,0 +1,7 @@
+gene	contrast	meandiff	p_raw	p_bonferroni	p_bh	verdict
+C1QTNF9	NF vs ICM	-0.374	1.03e-05	3.09e-05	1.54e-05	sig
+C1QTNF9	NF vs DCM	-0.444	6.55e-07	1.97e-06	1.97e-06	sig
+C1QTNF9	ICM vs DCM	-0.07	0.458	1.0	0.458	ns
+C1QTNF9B	NF vs ICM	-0.259	0.000404	0.00121	0.000607	sig
+C1QTNF9B	NF vs DCM	-0.415	2.15e-07	6.46e-07	6.46e-07	sig
+C1QTNF9B	ICM vs DCM	-0.156	0.0669	0.201	0.0669	ns(trend)

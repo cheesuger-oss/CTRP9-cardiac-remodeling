@@ -1,0 +1,11 @@
+	sample	group	species	model
+0	control1	control	human	TOF miRNA-seq
+1	control2	control	human	TOF miRNA-seq
+2	control3	control	human	TOF miRNA-seq
+3	control4	control	human	TOF miRNA-seq
+4	control5	control	human	TOF miRNA-seq
+5	treat1	treat	human	TOF miRNA-seq
+6	treat2	treat	human	TOF miRNA-seq
+7	treat3	treat	human	TOF miRNA-seq
+8	treat4	treat	human	TOF miRNA-seq
+9	treat5	treat	human	TOF miRNA-seq
